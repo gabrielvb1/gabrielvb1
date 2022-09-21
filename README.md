@@ -7,7 +7,7 @@
 
 - 📫 Como falar comigo: **gabriel.vieirab87@gmail.com**
 
-- ⚡ Fatos curiosos **Sou formado em Comunicação pela UFBA e fui pesquisador de Tecnologia e Cultura Digital. Já publiquei artigos científicos sobre o tema.**
+- ⚡ Fatos curiosos: **Sou formado em Comunicação pela UFBA e fui pesquisador de Tecnologia e Cultura Digital. Já publiquei artigos científicos sobre o tema.**
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
