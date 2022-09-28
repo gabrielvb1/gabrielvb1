@@ -5,7 +5,7 @@
 
 - 🤝 Busco aplicar minha experiência com trabalho em equipe e pesquisa em tecnologia em um cargo de desenvolvedor junior.
 
-- Pode me fazer perguntas sobre **Javascript, HTML, CSS, React, Node.js e PostgreSQL**
+- 💬 Pode me perguntar sobre **Javascript, HTML, CSS, React, Node.js e PostgreSQL**
 
 - ⚡ Fatos curiosos: **Sou aficcionado por produção musical e formado em Comunicação pela UFBA. Fui pesquisador de Tecnologia e Cultura Digital e publiquei um artigo científico sobre o tema.**
 
