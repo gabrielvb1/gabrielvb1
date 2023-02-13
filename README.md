@@ -5,7 +5,7 @@
 
 - 🤝 Busco aplicar minha experiência com trabalho em equipe e pesquisa em tecnologia em um cargo de desenvolvedor junior.
 
-- 💬 Pode me perguntar sobre **Javascript, HTML, CSS, React, Node.js e PostgreSQL**
+- 💬 Pode me perguntar sobre **Javascript, Node.js, React e SQL**
 
 - 👨‍💻 Tenho inglês fluente e já trabalhei com tradução para artigos científicos, matérias jornalísticas e filmes publicitários.
 
