@@ -1,11 +1,9 @@
 <h1 align="center">Olá, me chamo Gabriel Bastos</h1>
 <h3 align="center">Sou um desenvolvedor Fullstack em formação</h3>
 
-- 🔭 Atualmente estou buscando uma vaga Backend ou Fullstack 
+- 🔭 Atualmente sou desenvolvedor Fullstack Jr. na Port Louis
 
-- 🤝 Busco aplicar minha experiência com trabalho em equipe e pesquisa em tecnologia em um cargo de desenvolvedor junior.
-
-- 💬 Pode me perguntar sobre **Javascript, Node.js, React e SQL**
+- 💬 Estudo e trabalho com Vue.js(2x, 3x), Node.js, Typescript, Javascript e AWS
 
 - 👨‍💻 Tenho inglês fluente e já trabalhei com tradução para artigos científicos, matérias jornalísticas e filmes publicitários.
 
