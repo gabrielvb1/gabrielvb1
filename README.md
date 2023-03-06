@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Gabriel Bastos</h1>
-<h3 align="center">Sou um desenvolvedor Fullstack em formação</h3>
+<h3 align="center">Sou um desenvolvedor Fullstack</h3>
 
 - 🔭 Atualmente sou desenvolvedor Fullstack Jr. na Port Louis
 
