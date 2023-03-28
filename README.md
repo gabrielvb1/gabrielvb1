@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou desenvolvedor Fullstack Jr. na Port Louis
 
-- 💬 Estudo e trabalho com Vue.js(2x, 3x), Node.js, Typescript, Javascript e AWS
+- 💬 Estudo e trabalho com Vue.js(2x, 3x), Node.js, Typescript, Javascript, SQL e AWS
 
 - 👨‍💻 Tenho inglês fluente e já trabalhei com tradução para artigos científicos, matérias jornalísticas e filmes publicitários.
 
