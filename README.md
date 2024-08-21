@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Gabriel Bastos</h1>
 <h3 align="center">Sou um desenvolvedor Fullstack</h3>
 
-- 🔭 Atualmente sou desenvolvedor Fullstack Jr. na Port Louis
+- 🔭 Atualmente sou desenvolvedor Fullstack na Port Louis
 
 - 💬 Estudo e trabalho com Vue.js(2x, 3x), Node.js, Typescript, Javascript, SQL e AWS
 
